@@ -14,4 +14,4 @@ The aim of this project is to create a program to read one line at a time from a
 
 
 ## What I Learned
-For this project i learned to work with static variables, and know more about File descriptors.
+For this project I learned how to work with static variables, and also I expand my knowledge about File descriptors.
